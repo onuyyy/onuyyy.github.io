@@ -1,0 +1,21 @@
+{
+  "name": "onuyyy.dev",
+  "short_name": "onuyyy.dev",
+  "icons": [
+    {
+      "src": "/assets/img/favicons/web-app-manifest-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/assets/img/favicons/web-app-manifest-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "theme_color": "#4c6ef5",
+  "background_color": "#ffffff",
+  "display": "standalone"
+}
